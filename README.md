@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![DevSeulgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSeulgi&show_icons=true)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSeulgi&layout=compact)](https://github.com/DevSeulgi/github-readme-stats)
+ -->
+ 
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) -->
+
 <!--
 **DevSeulgi/DevSeulgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
