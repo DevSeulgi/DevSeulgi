@@ -1,4 +1,10 @@
-<div id="header" align="center">
+<div align="center">
+
+<p>
+Welcome to Seulgi's profile!
+</p>
+
+
   <img src="https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif" width="180"/>
   <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
   <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="200"/>
@@ -29,26 +35,6 @@
 <br/>
 
 ## 🔥 My Stats
-![DevSeulgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSeulgi&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true) <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevSeulgi&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-
-  
-</div>
-
-
-
-
-
-<div id="header" align="center">
-
-```
-
-__        __   _
-\ \      / /__| | ___ ___  _ __ ___   ___
- \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \
-  \ V  V /  __/ | (_| (_) | | | | | |  __/
-   \_/\_/ \___|_|\___\___/|_| |_| |_|\___|
-   
-```
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevSeulgi&hide_border=true&date_format=%5BY%20%5DM%20j)
 
 </div>
