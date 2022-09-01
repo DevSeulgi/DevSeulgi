@@ -1,6 +1,7 @@
 ## 👋 Hi, there !
 - ✉️ **`E-mail`** DevSeulgi209@gmail.com
 - 📚 **`Blog`** [velog.io/@devseulgi](https://velog.io/@devseulgi)
+- 👩‍🎤 <em>**`Portfolio as designer...`** [seulgi.cargo.site](seulgi.cargo.site)</em>
 
 <br/>
 
