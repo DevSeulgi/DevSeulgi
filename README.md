@@ -1,4 +1,4 @@
-## 👋 Park Seulgi
+## 👋 Hi, I'm Seulgi !
 - ✉️ **`E-mail`** DevSeulgi209@gmail.com
 - 📚 **`Blog`** [velog.io/@devseulgi](https://velog.io/@devseulgi)
 - 👩‍🎤 <em>**`Portfolio as designer...`** [seulgi.cargo.site](https://seulgi.cargo.site)</em>
