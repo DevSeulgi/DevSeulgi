@@ -10,10 +10,11 @@
     <td valign="top" align="center" width="50%">
      <h2>📚 Currently Studying</h2>
      <div style="margin: 100">
-      <img alt="nextJS" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>
       <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"/>
-      <img alt="emotion" src="https://img.shields.io/badge/EMOTION-100000?style=flat&logo=styled-components&logoColor=white&labelColor=c43bac&color=c43bac"/>
+      <img alt="react native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
+      <img alt="nextJS" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>
       <img alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white"/>
+      <img alt="emotion" src="https://img.shields.io/badge/EMOTION-100000?style=flat&logo=styled-components&logoColor=white&labelColor=c43bac&color=c43bac"/>
       <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>    
      </div>
     </td>
@@ -22,11 +23,11 @@
      <div>
       <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
       <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
+      <img alt="recoil" src="https://img.shields.io/badge/recoil-100000?style=flat&logo=redux&logoColor=white&labelColor=3577E5&color=3577E5"/>
       <!-- <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
       <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/> --!>
       <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
       <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white"/>
-      <img alt="recoil" src="https://img.shields.io/badge/recoil-100000?style=flat&logo=redux&logoColor=white&labelColor=3577E5&color=3577E5"/>
      </div>
     </td>
   </tr>
