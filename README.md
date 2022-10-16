@@ -34,12 +34,16 @@
   <tr>
    <td>
     <div height="500">
+     <a href="https://velog.io/@devseulgi" target="_blank">
       <img height="180" width="100%" alt="velog post list" src="https://velog-readme-stats.vercel.app/api/list?name=devseulgi"/>
-     </div>
+     </a>
+    </div>
    </td>
    <td>
     <div>
+     <a href="https://github.com/DevSeulgi?tab=repositories" target="_blank">
       <img height="180" width="100%" alt="git states" src="http://github-readme-streak-stats.herokuapp.com?user=DevSeulgi&hide_border=false&date_format=%5BY%20%5DM%20j"/>
+     </a>
      </div>
    </td>
   </tr>
