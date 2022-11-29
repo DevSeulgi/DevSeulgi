@@ -1,10 +1,11 @@
 <div align='center'>
-<p>
+<!-- <p>
  <h1 align='center'> 👋 Hello, I'm Seulgi ! </h1>
  <div align='center'>
   <img alt='hello' src="https://user-images.githubusercontent.com/97112697/194694742-33ebc154-977e-4be2-8ef9-103ffbc4afec.png">
  </div>
 </p>
+--!>
 <table width="100%" cellpadding="0">
   <tr style="padding: 0">
     <td valign="top" align="center" width="50%">
